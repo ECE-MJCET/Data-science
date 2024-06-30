@@ -1,0 +1,3 @@
+C:/Users/abdul/CLionProjects/c++ programming/cmake-build-debug/CMakeFiles/c___programming.dir
+C:/Users/abdul/CLionProjects/c++ programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdul/CLionProjects/c++ programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
