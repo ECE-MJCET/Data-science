@@ -92,7 +92,7 @@ Evaluation of a financial institution's marketing campaign outcomes, focusing on
 
 1. Clone the repository:
 
-git clone Data Science
+git clone https://github.com/ECE-MJCET/Data-science/tree/8eca753fa57d7598a469ea1881976f9514d6fe23/Data%20Science
 cd repo-name
 
 
